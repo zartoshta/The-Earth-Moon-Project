@@ -4,7 +4,8 @@ Author:
 Zartosht Atashrazm
 Independent Researcher in Machine and System Analysis
 Email: zartosht.atashrazm@gmail.com 
-LinkedIn: linkedin.com/in/zartosht-atashrazm-2b25415b
+LinkedIn: 
+linkedin.com/in/zartosht-atashrazm-2b25415b
 
 Introduction
 From the dawn of history, humanity has gazed at the night sky with wonder and asked:
