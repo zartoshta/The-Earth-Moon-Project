@@ -1,12 +1,16 @@
 # The-Earth-Moon-Project
 The Enigma of an Engineered System
+-------------------------------------------------------------------------
 Author:
 Zartosht Atashrazm
 Independent Researcher in Machine and System Analysis
-Email: zartosht.atashrazm@gmail.com 
-LinkedIn: 
-linkedin.com/in/zartosht-atashrazm-2b25415b
 
+Email:
+zartosht.atashrazm@gmail.com 
+
+LinkedIn: 
+https://www.linkedin.com/in/zartosht-atashrazm-2b25415b/?skipRedirect=true
+-------------------------------------------------------------------------
 Introduction
 From the dawn of history, humanity has gazed at the night sky with wonder and asked:
 “Why are we here?”
